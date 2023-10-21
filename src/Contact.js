@@ -9,13 +9,13 @@ const Contact = () => {
       </p>
       <ul>
         <li>
-          <strong>Email:</strong> <a href=" ">Email</a>
+          <strong>Email:</strong> <a href="vishalganpathy@gmail.com">Email</a>
         </li>
         <li>
-          <strong>LinkedIn:</strong> <a href=" " target="_blank" rel="noopener noreferrer">Linkedin</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishal-ganapathy/" target="_blank" rel="noopener noreferrer">Linkedin</a>
         </li>
         <li>
-          <strong>GitHub:</strong> <a href=" " target="_blank" rel="noopener noreferrer">github</a>
+          <strong>GitHub:</strong> <a href="https://github.com/vish1806" target="_blank" rel="noopener noreferrer">github</a>
         </li>
        
       </ul>
